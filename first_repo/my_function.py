@@ -5,3 +5,6 @@ def function2():
     
 def say_hello(name):
     print("Hello, " + name + "!")
+
+def Lyla_function():
+    print("New change from Lyla")
